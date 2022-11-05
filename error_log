@@ -1,0 +1,15 @@
+[26-Oct-2022 10:59:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/cairod46/public_html/vale_do_leite/home.php:100
+Stack trace:
+#0 /home1/cairod46/public_html/vale_do_leite/index.php(10): include()
+#1 {main}
+  thrown in /home1/cairod46/public_html/vale_do_leite/home.php on line 100
+[26-Oct-2022 11:00:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/cairod46/public_html/vale_do_leite/home.php:100
+Stack trace:
+#0 /home1/cairod46/public_html/vale_do_leite/index.php(10): include()
+#1 {main}
+  thrown in /home1/cairod46/public_html/vale_do_leite/home.php on line 100
+[31-Oct-2022 09:28:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/cairod46/public_html/vale_do_leite/home.php:100
+Stack trace:
+#0 /home1/cairod46/public_html/vale_do_leite/index.php(10): include()
+#1 {main}
+  thrown in /home1/cairod46/public_html/vale_do_leite/home.php on line 100
